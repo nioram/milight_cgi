@@ -51,5 +51,6 @@ Possible values:
                        The VALUE mandatory parameter specifies the color
                        and must be an integer number in the range 0-255.
 
+Examples:
 myip/cgi-bin/milight.cgi?zone=0&cm=B&var=19
 
