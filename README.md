@@ -4,6 +4,7 @@ please view it in raw!
 a simple cgi to control milight lights
 
 Installation:
+
 1.Place cgi script in cgi-bin folder and make it executable.
 
 2.Download Milight Commandline Utility ->   http://iqjar.com/download/jar/milight/milight_sources.zip
