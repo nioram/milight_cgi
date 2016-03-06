@@ -5,17 +5,17 @@ a simple cgi to control milight lights
 
 ## Installation:
 
-    1. Place cgi script in cgi-bin folder and make it executable.
-    
-    2. [Download](http://iqjar.com/download/jar/milight/milight_sources.zip) Milight Commandline Utility
-    
-    3. Extract Zip in Home folder and rename it to milight
-    
-    4. compile it (its cpp code)
-    
-    5. edit the this line in the cgi to the path where your tool is located :  echo "$(/home/insertyourusername/milight/milight     $ARGX $ARGY $ARGZ)"
-    
-    6. Profit!
+1. Place cgi script in cgi-bin folder and make it executable.
+
+2. [Download](http://iqjar.com/download/jar/milight/milight_sources.zip) Milight Commandline Utility
+
+3. Extract Zip in Home folder and rename it to milight
+
+4. compile it (its cpp code)
+
+5. edit the this line in the cgi to the path where your tool is located :  echo "$(/home/insertyourusername/milight/milight     $ARGX $ARGY $ARGZ)"
+
+6. Profit
 
 ## USAGE:
 
