@@ -1,4 +1,5 @@
 # milight_cgi
+please view it in raw!
 a simple cgi to control milight lights
 
 Installation:
